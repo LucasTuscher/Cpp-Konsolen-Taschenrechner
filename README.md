@@ -23,7 +23,7 @@ Ergebnis: `15`
 Um den Taschenrechner zu kompilieren und auszuführen, folge diesen Schritten:
 
 ### Auf einem Linux/MacOS-System:
-1. Speichere den Code in einer Datei, z. B. `calculator.cpp`.
+1. Speichere den Code in einer Datei, z. B. `Main.cpp`.
 2. Öffne das Terminal und navigiere zum Verzeichnis, das die Datei enthält.
 3. Kompiliere den Code mit:
    ```bash
