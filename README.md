@@ -27,4 +27,4 @@ Um den Taschenrechner zu kompilieren und auszuführen, folge diesen Schritten:
 2. Öffne das Terminal und navigiere zum Verzeichnis, das die Datei enthält.
 3. Kompiliere den Code mit:
    ```bash
-   g++ -o calculator calculator.cpp
+   g++ -o calculator Main.cpp
